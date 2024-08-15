@@ -19,8 +19,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 ## Installation
 
 1. **Clone the repository:**
-
-   ```bash
+```bash
    git clone https://github.com/Sherinr11/Portfolio
    ```
 2.**Navigate to the project directory:**
