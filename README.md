@@ -30,5 +30,7 @@ cd portfolio
 ```bash
 open index.html
 ```
+4.**Screenshots**
+![Home Page](assets/home.png)
 
 
