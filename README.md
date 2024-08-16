@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## Features
 
-- **Responsive Design:** Optimized for both desktop and mobile devices.
+
 - **Modern Aesthetics:** Clean and elegant design with smooth transitions.
 - **Project Showcase:** Displays a curated list of my projects with descriptions.
 - **Contact Form:** Easy way to get in touch with me directly through the site.
